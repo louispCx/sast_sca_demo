@@ -10,5 +10,5 @@
 3. ua.parser.js 악성 패키지를 제거하시오.
 
 4. Dockerfile의 high 취약점을 해결하시오.
-
+ 
  
